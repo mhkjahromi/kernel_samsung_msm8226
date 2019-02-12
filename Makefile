@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 113
-EXTRAVERSION =
+EXTRAVERSION = -Caffeine-Kernel-v0.1
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
